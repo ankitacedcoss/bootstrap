@@ -1,0 +1,69 @@
+
+.col-sm-4{
+	background-image:url(../../images/back.jpg);
+	height:800px;
+	background-repeat:no-repeat;
+	
+}
+
+#icon{
+	margin-left:300px;
+	margin-top:200px;
+}
+
+#imgg1{
+	float:left;
+	padding:10px;
+}
+#imgg2{
+	float:left;
+	padding:10px;
+}
+
+#imgg3{
+	float:left;
+	padding:10px;
+}
+
+#imgg4{
+	float:left;
+	padding:10px;
+}
+.labeled-icons{
+	list-style: none;
+}
+.img-circle{
+	margin-top:250px;
+	margin-left:300px;
+}
+#head{
+	margin-left:300px;
+	color:white;
+	font-size:30px;
+
+}
+#sec2{
+	font-size:30px;
+	color:grey;
+	margin-top:100px;
+}
+
+#one{
+	color:grey;
+	border-bottom:10px;
+}
+#three {
+	color:grey;
+	font-size:20px;
+	margin-top:100px;
+	border-top: 3px solid #efefef ;
+   margin: 4em 0 0;
+}
+#two{
+	color:grey;
+   border-top: 3px solid #efefef ;
+   margin: 4em 0 0;
+}
+.form-group{
+	margin-top:20px;
+}
